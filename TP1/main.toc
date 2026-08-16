@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1.}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2.}Amplificador Operacional TL072: ejemplo de funcionamiento en configuración inversora}{2}{section.2}%
+\contentsline {section}{\numberline {3.}Análisis de funcionamiento y limitaciones de los Op. Amp. TL072 y LM741}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Caso A}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Caso B}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Caso C}{4}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {$a)$}TL072}{4}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {$b)$}LM741}{5}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Caso D}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Caso E}{7}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Caso F}{8}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Caso G}{9}{subsection.3.7}%
+\contentsline {section}{\numberline {4.}Medición de la Ganancia de un Op. Amp.: TL082}{10}{section.4}%
+\contentsline {section}{\numberline {5.}Anexo}{12}{section.5}%
+\contentsfinish 

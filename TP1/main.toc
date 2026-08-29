@@ -12,5 +12,6 @@
 \contentsline {subsection}{\numberline {3.6}Caso F}{8}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7}Caso G}{9}{subsection.3.7}%
 \contentsline {section}{\numberline {4.}Medición de la Ganancia de un Op. Amp.: TL082}{10}{section.4}%
-\contentsline {section}{\numberline {5.}Anexo}{12}{section.5}%
+\contentsline {section}{\numberline {5.}Conclusión}{12}{section.5}%
+\contentsline {section}{\numberline {6.}Anexo}{12}{section.6}%
 \contentsfinish 

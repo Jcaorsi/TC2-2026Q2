@@ -608,7 +608,20 @@ el valor informado en la datasheet(3MHz). Además, se puede calcular el valor de
     \caption{Circuito para medir $V_{offset}$ del Op. Amp. analizado (llamado DUT) si la fuente V1 se deja apagada. Si se la prende se podrá medir el $A_{OL}$ para diferentes frecuencias.}
     \label{fig:Ejc2}
 \end{figure}
-\vspace{5cm}
+
+\section{Conclusión}
+Finalmente, luego de trabajar con los dispositivos LM741, TL082 y TL072, se concluye que al no usar a los OA en la región de operación recomendada 
+quedan al descubierto efectos no ideales como el Phase Reversal, la limitación de Slew Rate,
+y la resistencia de salida $r_o$, incluso las limitaciones por saturación. Notese que 
+dependiendo de la calidad del operacional utilizado, 
+se puede ver como este tipo de factores se ve distorsionado, con respecto a lo informado por 
+los fabricantes. Además, en la última sección se pudo comprobar que efectivamente los dispositivos se construyen con un polo dominante agregado para evitar problemas de inversión de fase al llegar hasta cierta frecuencia de señal de entrada.
+Es interesante notar la utilidad que estos dispositivos ofrecen como en el caso de la búsqueda 
+de la ganancia a lazo abierto de uno de ellos implementando un Servo Loop. 
+
+
+
+\vspace{0cm}
 \begin{thebibliography}{9}
 
 \bibitem{datasheet_opamp}

@@ -1,0 +1,432 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.10)  29 AUG 2026 17:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/caorsi/source/repos/Jcaorsi/TC2-2026Q2/Guia 1/guia.tex"
+(c:/Users/caorsi/source/repos/Jcaorsi/TC2-2026Q2/Guia 1/guia.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks20
+\float@box=\box52
+\@float@everytoks=\toks21
+\@floatcapt=\box53
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box54
+) (guia.aux)
+\openout1 = `guia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen144
+\scratchbox=\box55
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen145
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks23
+) (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\caorsi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+<foto/1.jpg, id=1, 3466.9525pt x 4635.3175pt>
+File: foto/1.jpg Graphic file (type jpg)
+<use foto/1.jpg>
+Package pdftex.def Info: foto/1.jpg  used on input line 16.
+(pdftex.def)             Requested size: 413.99895pt x 553.45567pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 16--17
+ [][] 
+ []
+
+
+
+[1
+
+{C:/Users/caorsi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \vbox (3.45567pt too high) has occurred while \output is active []
+
+
+
+[2 <./foto/1.jpg>]
+<foto/2.jpg, id=11, 3461.93375pt x 4635.3175pt>
+File: foto/2.jpg Graphic file (type jpg)
+<use foto/2.jpg>
+Package pdftex.def Info: foto/2.jpg  used on input line 21.
+(pdftex.def)             Requested size: 413.99895pt x 554.30443pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+
+Overfull \vbox (4.30443pt too high) has occurred while \output is active []
+
+
+
+[3 <./foto/2.jpg>]
+<foto/3.jpg, id=15, 3469.96375pt x 4635.3175pt>
+File: foto/3.jpg Graphic file (type jpg)
+<use foto/3.jpg>
+Package pdftex.def Info: foto/3.jpg  used on input line 26.
+(pdftex.def)             Requested size: 413.99895pt x 553.0313pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+
+Overfull \vbox (3.0313pt too high) has occurred while \output is active []
+
+
+
+[4 <./foto/3.jpg>]
+<foto/4.jpg, id=19, 3458.9225pt x 4626.28375pt>
+File: foto/4.jpg Graphic file (type jpg)
+<use foto/4.jpg>
+Package pdftex.def Info: foto/4.jpg  used on input line 31.
+(pdftex.def)             Requested size: 413.99895pt x 553.71828pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 31--32
+ [][] 
+ []
+
+
+Overfull \vbox (3.71828pt too high) has occurred while \output is active []
+
+
+
+[5 <./foto/4.jpg>]
+<foto/5.jpg, id=23, 3459.92625pt x 4626.28375pt>
+File: foto/5.jpg Graphic file (type jpg)
+<use foto/5.jpg>
+Package pdftex.def Info: foto/5.jpg  used on input line 36.
+(pdftex.def)             Requested size: 413.99895pt x 553.5065pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 36--37
+ [][] 
+ []
+
+
+Overfull \vbox (3.5065pt too high) has occurred while \output is active []
+
+
+
+[6 <./foto/5.jpg>]
+<foto/6.jpg, id=27, 3412.75pt x 4846.105pt>
+File: foto/6.jpg Graphic file (type jpg)
+<use foto/6.jpg>
+Package pdftex.def Info: foto/6.jpg  used on input line 41.
+(pdftex.def)             Requested size: 413.99895pt x 587.86684pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 41--42
+ [][] 
+ []
+
+
+Overfull \vbox (37.86684pt too high) has occurred while \output is active []
+
+
+
+[7 <./foto/6.jpg>]
+<foto/8.jpg, id=32, 3465.94875pt x 4636.32124pt>
+File: foto/8.jpg Graphic file (type jpg)
+<use foto/8.jpg>
+Package pdftex.def Info: foto/8.jpg  used on input line 46.
+(pdftex.def)             Requested size: 413.99895pt x 553.78775pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
+
+Overfull \vbox (3.78775pt too high) has occurred while \output is active []
+
+
+
+[8 <./foto/8.jpg>]
+<foto/9.jpg, id=36, 3464.945pt x 4634.31375pt>
+File: foto/9.jpg Graphic file (type jpg)
+<use foto/9.jpg>
+Package pdftex.def Info: foto/9.jpg  used on input line 51.
+(pdftex.def)             Requested size: 413.99895pt x 553.68939pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+
+Overfull \vbox (3.68939pt too high) has occurred while \output is active []
+
+
+
+[9 <./foto/9.jpg>]
+<foto/9.2.jpg, id=40, 3463.94125pt x 4634.31375pt>
+File: foto/9.2.jpg Graphic file (type jpg)
+<use foto/9.2.jpg>
+Package pdftex.def Info: foto/9.2.jpg  used on input line 56.
+(pdftex.def)             Requested size: 413.99895pt x 553.83083pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
+
+Overfull \vbox (3.83083pt too high) has occurred while \output is active []
+
+
+
+[10 <./foto/9.2.jpg>]
+<foto/10.jpg, id=44, 3462.9375pt x 4632.30624pt>
+File: foto/10.jpg Graphic file (type jpg)
+<use foto/10.jpg>
+Package pdftex.def Info: foto/10.jpg  used on input line 61.
+(pdftex.def)             Requested size: 413.99895pt x 553.73228pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 61--62
+ [][] 
+ []
+
+
+Overfull \vbox (3.73228pt too high) has occurred while \output is active []
+
+
+
+[11 <./foto/10.jpg>]
+<foto/10.2.jpg, id=48, 3438.8475pt x 4778.85374pt>
+File: foto/10.2.jpg Graphic file (type jpg)
+<use foto/10.2.jpg>
+Package pdftex.def Info: foto/10.2.jpg  used on input line 66.
+(pdftex.def)             Requested size: 413.99895pt x 575.2607pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 66--67
+ [][] 
+ []
+
+
+Overfull \vbox (25.2607pt too high) has occurred while \output is active []
+
+
+
+[12 <./foto/10.2.jpg>]
+<foto/11.jpg, id=52, 3471.97125pt x 4635.3175pt>
+File: foto/11.jpg Graphic file (type jpg)
+<use foto/11.jpg>
+Package pdftex.def Info: foto/11.jpg  used on input line 71.
+(pdftex.def)             Requested size: 413.99895pt x 552.67766pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+
+Overfull \vbox (2.67766pt too high) has occurred while \output is active []
+
+
+
+[13 <./foto/11.jpg>]
+<foto/12.jpg, id=57, 4578.10374pt x 3462.9375pt>
+File: foto/12.jpg Graphic file (type jpg)
+<use foto/12.jpg>
+Package pdftex.def Info: foto/12.jpg  used on input line 76.
+(pdftex.def)             Requested size: 413.99895pt x 313.13045pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 76--77
+ [][] 
+ []
+
+<foto/13.jpg, id=58, 3378.6225pt x 4570.07375pt>
+File: foto/13.jpg Graphic file (type jpg)
+<use foto/13.jpg>
+Package pdftex.def Info: foto/13.jpg  used on input line 81.
+(pdftex.def)             Requested size: 413.99895pt x 559.96098pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 81--82
+ [][] 
+ []
+
+
+
+[14 <./foto/12.jpg>]
+Overfull \vbox (9.96098pt too high) has occurred while \output is active []
+
+
+
+[15 <./foto/13.jpg>]
+<foto/14.jpg, id=65, 4629.295pt x 3458.9225pt>
+File: foto/14.jpg Graphic file (type jpg)
+<use foto/14.jpg>
+Package pdftex.def Info: foto/14.jpg  used on input line 86.
+(pdftex.def)             Requested size: 413.99895pt x 309.284pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+<foto/15.jpg, id=66, 3460.93pt x 4632.30624pt>
+File: foto/15.jpg Graphic file (type jpg)
+<use foto/15.jpg>
+Package pdftex.def Info: foto/15.jpg  used on input line 91.
+(pdftex.def)             Requested size: 413.99895pt x 554.0857pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 91--92
+ [][] 
+ []
+
+
+
+[16 <./foto/14.jpg>]
+Overfull \vbox (4.0857pt too high) has occurred while \output is active []
+
+
+
+[17 <./foto/15.jpg>]
+<foto/16.jpg, id=73, 3453.90375pt x 4634.31375pt>
+File: foto/16.jpg Graphic file (type jpg)
+<use foto/16.jpg>
+Package pdftex.def Info: foto/16.jpg  used on input line 96.
+(pdftex.def)             Requested size: 413.99895pt x 555.45724pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 96--97
+ [][] 
+ []
+
+
+Overfull \vbox (5.45724pt too high) has occurred while \output is active []
+
+
+
+[18 <./foto/16.jpg>]
+<foto/17.jpg, id=77, 3369.58875pt x 3258.1725pt>
+File: foto/17.jpg Graphic file (type jpg)
+<use foto/17.jpg>
+Package pdftex.def Info: foto/17.jpg  used on input line 101.
+(pdftex.def)             Requested size: 413.99895pt x 400.31038pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 101--102
+ [][] 
+ []
+
+<foto/17.2.jpg, id=78, 3279.25125pt x 4454.6425pt>
+File: foto/17.2.jpg Graphic file (type jpg)
+<use foto/17.2.jpg>
+Package pdftex.def Info: foto/17.2.jpg  used on input line 106.
+(pdftex.def)             Requested size: 413.99895pt x 562.33472pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 106--107
+ [][] 
+ []
+
+
+
+[19 <./foto/17.jpg>]
+Overfull \vbox (12.33472pt too high) has occurred while \output is active []
+
+
+
+[20 <./foto/17.2.jpg>]
+<foto/17.3.jpg, id=86, 3362.5625pt x 4529.92375pt>
+File: foto/17.3.jpg Graphic file (type jpg)
+<use foto/17.3.jpg>
+Package pdftex.def Info: foto/17.3.jpg  used on input line 111.
+(pdftex.def)             Requested size: 413.99895pt x 557.66809pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 111--112
+ [][] 
+ []
+
+
+Overfull \vbox (7.66809pt too high) has occurred while \output is active []
+
+
+
+[21 <./foto/17.3.jpg>] (guia.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1541 strings out of 473522
+ 26179 string characters out of 5714125
+ 409854 words of memory out of 5000000
+ 24800 multiletter control sequences out of 15000+600000
+ 561872 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,256b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/caorsi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/caorsi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on guia.pdf (21 pages, 73388276 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
